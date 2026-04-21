@@ -19,6 +19,10 @@ Right now I'm focused on understanding how things work rather than just using th
 
 To build a few solid projects that I fully understand and can explain.
 
+### Website
+
+https://krishnaphuyal.com.np
+
 ---
 
 I'll keep updating this profile as I learn and build more.
