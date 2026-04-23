@@ -6,7 +6,6 @@ Right now I'm focused on understanding how things work rather than just using th
 ### What I'm working on
 
 * Learning JavaScript and improving problem solving
-* Building small apps with React
 * Exploring backend development with Node.js and Express
 
 ### What I'm interested in
